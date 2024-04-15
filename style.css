@@ -55,6 +55,9 @@ header {
     display:flex;
     justify-content: space-around;
 }
+.estudante-titulo {
+    
+}
 
 .estudante{
     padding: 24px 0;
