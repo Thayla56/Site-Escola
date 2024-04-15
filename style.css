@@ -49,12 +49,13 @@ header {
 .escola-conteudo {
     width: 35%;
 }
-.cabecalho1 {
-
-    color: white;
-    display:flex;
+.cabecalho {
+    background-color: #ffffff;
+    display: flex;
     justify-content: space-around;
-    }
+    align-items: center;
+    padding: 24px 0;
+}
 
 .estudante{
     padding: 24px 0;
