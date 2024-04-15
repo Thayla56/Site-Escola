@@ -64,7 +64,7 @@ header {
     padding: 26px 0;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 100px;
 }
 
 .estudante-icone{
@@ -81,6 +81,6 @@ header {
     text-align: center;
 }
 .rodape-imagem{
-    height: 60px;
+    height: 45px;
     padding: 12px 0;
 }
