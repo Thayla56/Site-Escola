@@ -89,8 +89,6 @@ header {
 }
 
 .estudante-divi {
-    flex-direction:column;
-    padding: 4px 8px;
     text-align: center;
-    padding: 16px 0
+    
 }
