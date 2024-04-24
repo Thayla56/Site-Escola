@@ -87,3 +87,8 @@ header {
     height: 45px;
     padding: 12px 0;
 }
+
+br {
+    width: 20px;
+    padding: 4px 8px;
+}
